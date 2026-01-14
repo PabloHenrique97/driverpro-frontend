@@ -1,0 +1,8 @@
+{
+  "name": "DriverPro - Produtividade Motorista",
+  "description": "Aplicativo completo de produtividade para motoristas com gestão de rotas, cronômetro de tarefas e painel administrativo.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
